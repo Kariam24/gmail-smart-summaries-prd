@@ -14,4 +14,3 @@
 - Summary has aria-label and is keyboard navigable.
 - Banner supports screen readers with a concise description.
 
-**Link your Figma file here:** https://www.figma.com/file/ADD-YOUR-FILE
